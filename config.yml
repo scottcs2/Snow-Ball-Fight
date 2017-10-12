@@ -1,0 +1,16 @@
+test:
+  Lives: 10
+  Maximum Players: 10
+  Minimum Players: 1
+  Coordinates:
+    World: world
+    X: -78.3541009655611
+    Y: 94.36445617881311
+    Z: 210.4368069675744
+  Time: 12
+  Snowballs: 50
+  Unlimited: 'true'
+  Speed: 2
+  Jump: 1
+Arenas:
+- test
