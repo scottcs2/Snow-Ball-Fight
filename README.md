@@ -11,7 +11,7 @@ I have not tested this plugin on newer versions of Minecraft, but it likely need
 
 A few notes about the code:
 
-I recognize that the code is somewhat poorly organized, a result of my (at the time) poor coding ability. I first taught myself to program by making this plugin. Consequently, there may be redundant or inefficent code, strange syntax, or other peculiarities. I have filled the code with comments in order to better explain my thought process, organization, and what was happening in each block of code. I hope this will remove any potential confusion, but if something is unintelligible, feel free to contact me.
+I recognize that the code is somewhat poorly organized, a result of my (at the time) poor coding ability. I first taught myself to program by making this plugin during high school. Consequently, there may be redundant or inefficent code, strange syntax, or other peculiarities. I have filled the code with comments in order to better explain my thought process, organization, and what was happening in each block of code. I hope this will remove any potential confusion, but if something is unintelligible, feel free to contact me. I share this code not necessarily to highlight my coding capability, but to show that I have undertaken and completed large projects.
 
 Sincerely,
 
